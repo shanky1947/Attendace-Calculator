@@ -29,3 +29,9 @@
 In the project, data like students details like name, registration no. will be stored in a structure under stack. We will store their attendance of a week in a stack, their they can pop and could check effect on attendance if they will not go to class. For each subject there will be individual attendance stack.
 In time table section, there will be different lists storing class room no. of different subjects and time. We can remove classes which we don’t want to go. And finally, we will be shown by subjects whose classes we want to attend.
 A warning message will be displayed whenever a student is going to debar i.e. whenever his/her attendance will be less than 75%, he will be notified.
+
+## Data Structures Used
+* Stack
+* Queue
+* Structure
+* Class
